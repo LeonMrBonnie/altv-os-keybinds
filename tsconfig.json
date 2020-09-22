@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "lib": ["ES6"],
+        "typeRoots": ["./node_modules/@altv"],
+        "outDir": "dist",
+        "target": "ES6",
+        "strict": true,
+    },
+    "include": ["src/*.ts"],
+}

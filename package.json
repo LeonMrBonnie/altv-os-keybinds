@@ -1,0 +1,23 @@
+{
+  "name": "altv-os-keybinds",
+  "version": "1.0.0",
+  "description": "An alt:V resource for creating keybinds",
+  "main": "client.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonMrBonnie/altv-os-keybinds.git"
+  },
+  "author": "LeonMrBonnie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonMrBonnie/altv-os-keybinds/issues"
+  },
+  "homepage": "https://github.com/LeonMrBonnie/altv-os-keybinds#readme",
+  "devDependencies": {
+    "@altv/types-client": "^1.1.1",
+    "typescript": "^4.0.3"
+  }
+}
